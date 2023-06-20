@@ -1,10 +1,8 @@
 import sys
-
 import cv2
 
 
 def track():
-    tk_type = 'MIL'
     tk = cv2.TrackerCSRT_create()
     cap = cv2.VideoCapture(1)
     flag, image = cap.read()
