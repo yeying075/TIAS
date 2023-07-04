@@ -4,11 +4,11 @@ import re
 import cv2
 from cnocr import CnOcr
 
-from Djiango.settings import BASE_DIR
+from TIAS.settings import BASE_DIR
 from interface.code.track import track
 
 
-def camera_text(idnum, capture):
+def camera_text(encodeing, idnum, capture):
     cap = cv2.VideoCapture(capture)
     ocr = CnOcr()
     bl = False
@@ -40,10 +40,10 @@ def camera_text(idnum, capture):
     cap.release()
     if bl:
         print('检测到外卖')
-        track(bbox, capture)
+        track(encodeing, bbox, capture)
 
 
-def file_text(path, capture):
+def file_text(encodeing, path, capture):
     ocr = CnOcr()
     res = ocr.ocr(path)
     bl2 = False
@@ -51,7 +51,7 @@ def file_text(path, capture):
     i = 1
     k = -1
     for x in res:
-        if x['text'].find('订单号码') != -1:
+        if x['text'].find('订单编号') != -1:
             k = i
         if i == k+1:
             temp = x['text']
@@ -62,7 +62,7 @@ def file_text(path, capture):
                 print(idnum)
                 if 10 < len(idnum) < 40:
                     bl = True
-                    camera_text(idnum, capture)
+                    camera_text(encodeing, idnum, capture)
         i += 1
     if bl:
         return ''

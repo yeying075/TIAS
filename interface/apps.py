@@ -1,5 +1,5 @@
 from django.apps import AppConfig
 
 
-class ZjjConfig(AppConfig):
+class InterfaceConfig(AppConfig):
     name = 'interface'

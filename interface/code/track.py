@@ -2,10 +2,10 @@ import sys
 import cv2
 import winsound
 
-from interface.code.faceRecognition import camera_recog
+from interface.code.faceRecognition import camera_recog, camera_recog_2
 
 
-def track(bbox, capture):
+def track(encodeing, bbox, capture):
     tk = cv2.TrackerCSRT_create()
     cap = cv2.VideoCapture(capture)
     flag, image = cap.read()
@@ -33,7 +33,7 @@ def track(bbox, capture):
             cv2.destroyAllWindows()
             cap.release()
             print('启动人脸识别')
-            camera_recog(capture)
+            camera_recog_2(encodeing, capture)
             break
         k = cv2.waitKey(1)
         if k == ord('0'):

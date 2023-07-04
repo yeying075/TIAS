@@ -6,11 +6,13 @@ from django.shortcuts import render
 from django.http import JsonResponse
 from django.views.decorators.csrf import csrf_exempt
 
-from Djiango import settings
-from interface.code.faceRecognition import file_face
+from TIAS import settings
+from interface.code.faceRecognition import file_face, file_face_2
 from interface.code.objectRecognition import file_text
 
 # python manage.py runserver 0.0.0.0:8000
+
+encoding = ''
 
 
 @csrf_exempt
@@ -21,8 +23,10 @@ def face(request):  # request为接受到的信息
         with open(path, 'wb') as f:
             for chunk in img.chunks():
                 f.write(chunk)
-        re = file_face(path)
-        return JsonResponse({'code': 100200, 'data': [re]})  # 返回信息
+        re = file_face_2(path)
+        global encoding
+        encoding = re[1]
+        return JsonResponse({'code': 100200, 'data': [re[0]]})  # 返回信息
     else:
         return JsonResponse({'code': 100101})  # 100101为错误代码
 
@@ -31,15 +35,15 @@ def face(request):  # request为接受到的信息
 def text(request):  # request为接受到的信息
     if request.method == 'POST':  # 检查请求方式
         img = request.FILES['textImage']
-        path = os.path.join(settings.MEDIA_ROOT, img.name)
-        with open(path, 'wb') as f:
+        path = os.path.join(settings.MEDIA_ROOT, img.name)  # 本地存储地址
+        with open(path, 'wb') as f:  # 分块存储文件
             for chunk in img.chunks():
                 f.write(chunk)
-        re = file_text(path, 1)
+        global encoding
+        re = file_text(encoding, path, 1)
         return JsonResponse({'code': 100200, 'data': [re]})  # 返回信息
     else:
         return JsonResponse({'code': 100101})  # 100101为错误代码
-
 
 # @csrf_exempt
 # def login(request):  # request为接受到的信息
