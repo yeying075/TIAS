@@ -1,4 +1,4 @@
-<img width="339" alt="image" src="https://github.com/yeying075/TIAS/assets/120302683/e239555f-df33-4b90-aa2a-1ca72f2aedb7"># 大学生创新创业项目：外卖智能防盗系统
+# 大学生创新创业项目：外卖智能防盗系统
     在常用的外卖放置地点安装摄像头，配合物体追踪、人脸识别技术，确保取走外卖的人是合法的消费者。
     下图为本项目的流程图：
     <img width="339" alt="image" src="https://github.com/yeying075/TIAS/assets/120302683/a1c0259d-2954-40b5-a860-82eff9f8bb15">
