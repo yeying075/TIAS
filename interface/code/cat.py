@@ -2,7 +2,7 @@ import json
 
 import requests
 
-
+encoding = '2'
 def getunionid(code):
     appid = 'wx892666f0ea3b287d'
     secret = '37d015b48a04d7238cc916ab0146aa94'
@@ -13,3 +13,8 @@ def getunionid(code):
     res = requests.get(url)  # 调用微信官方接口，获取返回信息。
     data = json.loads(res.text)  # 解码得到用户唯一标识
     return data['openid']
+
+
+def xxx():
+    global encoding
+    print(encoding)

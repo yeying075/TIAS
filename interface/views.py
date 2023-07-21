@@ -9,10 +9,10 @@ from django.views.decorators.csrf import csrf_exempt
 from TIAS import settings
 from interface.code.faceRecognition import file_face, file_face_2
 from interface.code.objectRecognition import file_text
+from interface.code import faceRecognition
 
 # python manage.py runserver 0.0.0.0:8000
 
-encoding = ''
 
 
 @csrf_exempt
@@ -24,9 +24,7 @@ def face(request):  # request为接受到的信息
             for chunk in img.chunks():
                 f.write(chunk)
         re = file_face_2(path)
-        global encoding
-        encoding = re[1]
-        return JsonResponse({'code': 100200, 'data': [re[0]]})  # 返回信息
+        return JsonResponse({'code': 100200, 'data': [re]})  # 返回信息
     else:
         return JsonResponse({'code': 100101})  # 100101为错误代码
 
@@ -39,8 +37,7 @@ def text(request):  # request为接受到的信息
         with open(path, 'wb') as f:  # 分块存储文件
             for chunk in img.chunks():
                 f.write(chunk)
-        global encoding
-        re = file_text(encoding, path, 1)
+        re = file_text(path, 1)
         return JsonResponse({'code': 100200, 'data': [re]})  # 返回信息
     else:
         return JsonResponse({'code': 100101})  # 100101为错误代码

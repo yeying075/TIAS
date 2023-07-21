@@ -4,7 +4,78 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="217d4b8d-a4fa-45e9-9901-4034daeda045" name="更改" comment="" />
+    <list default="true" id="217d4b8d-a4fa-45e9-9901-4034daeda045" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/static/image/8dgZJqGlyZgy037d0593c24ee403dd2ba6a7b6f6aaf2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/image/Emik6jWKsJwza392d258dea71a28b4c11f55d5c90e5f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/image/I79cVvxivJl5a392d258dea71a28b4c11f55d5c90e5f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/image/IahEsNcQDRlp037d0593c24ee403dd2ba6a7b6f6aaf2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/image/L80XfFDgneX7037d0593c24ee403dd2ba6a7b6f6aaf2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/image/N92MAllal2A2a392d258dea71a28b4c11f55d5c90e5f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/image/Qnho705ZvgjKa392d258dea71a28b4c11f55d5c90e5f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/image/UX2VJ9cSQuGHa392d258dea71a28b4c11f55d5c90e5f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/image/e5xLvp9cHSWA037d0593c24ee403dd2ba6a7b6f6aaf2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/image/gMswBMfdoOoZ037d0593c24ee403dd2ba6a7b6f6aaf2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/image/h8ffRHahS8eBa392d258dea71a28b4c11f55d5c90e5f.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/TIAS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TIAS.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIAS/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/TIAS/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/code/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/code/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/code/cat.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/code/cat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/code/data/textImage.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/interface/code/data/textImage.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/code/faceRecognition.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/code/faceRecognition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/code/objectRecognition.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/code/objectRecognition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/code/track.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/code/track.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/image/cTXefxFYJA3M88f0397ef3e7b3d84036a3337b970912.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/image/ovC3ROrOq5h0037d0593c24ee403dd2ba6a7b6f6aaf2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/image/5ypjKlltgsSd037d0593c24ee403dd2ba6a7b6f6aaf2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/image/tmp_070cab436d12d1c9922ccd14fdfd98eaa7e365a87a254d23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/image/tmp_0852cb596f2576bab6867460f5443b8f93efd5f89178de6a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/image/tmp_11c9140150ecfb846e911d99c87ef2fabe47088583614d21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/image/tmp_1361cd497ce21e897a0c5845bbeaf517cfb4589e0a8b1923.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/image/tmp_1b814b0312bf86911e0042846ccc5487ce45bd6d2406e81e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/image/tmp_1c9cf7092210fa7e2aea28f1a484be869b10b6324a97e829.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/image/tmp_232ad8de36d2912db6a8c501e41774f847f6f59b179af757.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/image/tmp_25972ea05158d37961043cd4c42ce5fcb52a1e583a471725.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/image/tmp_31c2beec6a1f9a464e9f8b729d4ca6249ca30ed9864a72dc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/image/tmp_38573d517fd94b4162de2776a6bcd624711ed496fa819b60.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/image/tmp_3ca9ccb802c3717daa65d55c59496065b0bea3462eb85c2e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/image/tmp_41282cc0554d4dd8d412f06ac709b63d47475270b8f8ab56.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/image/tmp_429e53900f0397115da5fa48ee71c8dccd855f28f8da7ad8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/image/tmp_4862c779c5d81e00a86e59289cd37fd792c26001b380b04c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/image/tmp_4ba8a6d9cf8bbf6945f9233c4ba537fc75cfb2ec274cda79.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/image/tmp_51d48e2faf89fc0146a5550e022cd20879c6249a626993a0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/image/tmp_54fe3667a81a7db25202dd0dbe4293832570d3d42e92ef8d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/image/tmp_5e4de6d6e91c2eb1a49763147179a6e4892469d22272b32e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/image/tmp_65e9ed4e81d69ef77c829369a9e641e44dbe3e79b650546a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/image/tmp_6adb9c214db05dc2a4d08b199842dc13493750ba595ec97e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/image/tmp_6aea4797079d037a1fe56bfa278611ed5931115cbf69c4f0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/image/tmp_6bff2330264a2367f3ef10bc602b12bb8346f2f4398c8b97.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/image/tmp_6cb2c3f4cc4a5114693ebfb50842fcedd0e596f53c28595d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/image/tmp_7da54949388d66faf4a91a1275ccf259f9097265540a0c09.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/image/tmp_7eec5d51976e3bdf9ffb98ad938a6c8a9f4c8af964a29d36.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/image/tmp_7ef2d0358a825562f390a0e42693656c7ca2bda0d2bdacd4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/image/tmp_7f514993d14fd4686106c04e9b5a01676f9fc7bf45c2346c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/image/tmp_86fb1f97cd42ab4dda3354d7594d326931599f8250ed34a4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/image/tmp_8f442780cf6a2db8707049f4c8d3cebc451df816e9bead98.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/image/tmp_90d304acd425aaaaf1ddf8386a365a4b7b4fa971a25b898a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/image/tmp_9406779191907d07fa430385bebe03f380d03802194e4401.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/image/tmp_96c3b65b6024102b81c63637b00d3db4a02fbc8fd6889877.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/image/tmp_9e4497f8f9a9fb1d1694b36902d7f9ff3238c93ec298ee75.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/image/tmp_a720af289dc983628e607d47d49e8b6b4295ac0d3241bacd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/image/tmp_a82458fcf56d3d062a48118875ac93bb347c6bdb65e96980.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/image/tmp_aad99a6b88fcd730d9ba4f3d710d3dbf72cbe6bd1524f48e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/image/tmp_b0939c49c18b26bc04666d447334b789e2b3cfee410318ee.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/image/tmp_b4d6782dc163449cab4768ab48ad38f411382863ab13cafa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/image/tmp_b5955d7414e0f68774b631e52543fd678b804ac28ce5d61b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/image/tmp_bcb4518c0fbf9c94ff6a54f7046e3c446f3525ad2bdf4d1c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/image/tmp_d2cfb48e66eebb3c0787cbc0bdc769361768aae10aa75259.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/image/tmp_dca16863ed7ace881d610f0abe5a0dc7f3f4cd4cf5d37cf0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/image/tmp_e35f674d2101555b1336d9ea6fd4ef06129d04c93e580dd3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/image/tmp_e88fce074eb860e31d7c5e78f118c7a2ae7e24ddeb8d7f89.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/image/tmp_ee07860225fd5e89d2569e6a309b6eb70d5f571073ed7f84.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/image/tmp_f062314d811dd84d00ead549188335e9f7dbdc8193c6c573.jpg" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +89,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="no-module-name" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -31,17 +107,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "pack",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/fzhxx/PycharmProjects/TIAS",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
-  <component name="RunManager" selected="Python.track">
+}]]></component>
+  <component name="RunManager" selected="Python.faceRecognition">
     <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIAS" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -55,6 +134,48 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zjj/code/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TIAS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interface/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interface/code/cat.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="faceRecognition" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TIAS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interface/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interface/code/faceRecognition.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,8 +207,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.faceRecognition" />
+        <item itemvalue="Python.cat" />
         <item itemvalue="Python.track" />
         <item itemvalue="Python.__init__" />
+        <item itemvalue="Python.track" />
       </list>
     </recent_temporary>
   </component>
@@ -101,5 +225,8 @@
       <updated>1687062147577</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
